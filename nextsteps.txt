@@ -1,0 +1,1 @@
+Next, we should make the move input for black and white and some error catching.
